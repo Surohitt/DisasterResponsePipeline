@@ -7,7 +7,7 @@
 5. [Acknowledgements](#Acknowledgements)
 
 # Installation and Instructions <a name="Installation"></a>:
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python which can be found [here](https://www.anaconda.com/). The code should run with no issues using Python versions 3..
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python which can be found [here](https://www.anaconda.com/). The code should run with no issues using Python versions 3. You may need to install [Flask](http://flask.pocoo.org/), [sqlalchemy](https://www.sqlalchemy.org/) and [Plotly](https://plot.ly/)
 
 1. Run the following commands in the project's root directory to set up your database and model.
 
