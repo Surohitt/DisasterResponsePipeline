@@ -51,7 +51,7 @@ def index():
     for col in y:
         cat_val.append(y[col].sum())
     cat_val = np.array(cat_val)
-    # creating visuals
+    # creating the visuals
     graphs = [
         {
             'data': [
