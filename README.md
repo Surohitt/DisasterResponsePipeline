@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-![Demo Animation](![Alt Text](https://github.com/Surohitt/DisasterResponsePipeline/tree/master/assets/HomepageGif.gif)
+![Demo Animation](![Alt Text](https://raw.githubusercontent.com/Surohitt/DisasterResponsePipeline/master/assets/HomepageGif.gif)
 
 ## Table of Contents
 1. [Installation and Instructions](#Installation)
