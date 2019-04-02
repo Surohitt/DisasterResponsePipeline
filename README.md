@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-![Alt Text](http://www.giphy.com/gifs/3YIfBJmb0JkFA1sNBz)
+![](http://www.giphy.com/gifs/3YIfBJmb0JkFA1sNBz)
 
 ## Table of Contents
 1. [Installation and Instructions](#Installation)
