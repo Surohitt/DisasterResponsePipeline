@@ -1,4 +1,7 @@
 # Disaster Response Pipeline Project
+
+![Demo Animation](../assets/HomepageGif.gif?raw=true)
+
 ## Table of Contents
 1. [Installation and Instructions](#Installation)
 2. [Project Motivation](#Motivation)
