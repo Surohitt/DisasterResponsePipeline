@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-https://raw.githubusercontent.com/Surohitt/DisasterResponsePipeline/master/assets/HomepageGif.gif
+(https://raw.githubusercontent.com/Surohitt/DisasterResponsePipeline/master/assets/HomepageGif.gif)
 
 ## Table of Contents
 1. [Installation and Instructions](#Installation)
