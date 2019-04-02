@@ -1,6 +1,8 @@
 # Disaster Response Pipeline Project
 
-![](http://www.giphy.com/gifs/3YIfBJmb0JkFA1sNBz)
+![](assets/HomepageGif.gif)
+
+![](assets/ClassificationExample.gif)
 
 ## Table of Contents
 1. [Installation and Instructions](#Installation)
