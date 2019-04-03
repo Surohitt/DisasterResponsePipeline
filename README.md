@@ -45,7 +45,7 @@ The "process_data.py" file uses the aforementioned ETL pipeline we created in th
 
 # Results <a name='Results'></a>
 
-Take a look at my blog post on [medium](#https://medium.com/@surohittandon123/responding-to-disasters-a94eae8d3e8d) for more insights into thise project. 
+Take a look at my blog post on [medium](https://medium.com/@surohittandon123/responding-to-disasters-a94eae8d3e8d) for more insights into these project.
 
 # Acknowledgements <a name='Acknowledgements'></a>
 
